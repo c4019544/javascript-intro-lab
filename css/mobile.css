@@ -52,12 +52,15 @@ nav ul li a {
   color: #402626;
   padding: 8px 0;
 }
+
 .currentPage {
   background-color: #f9d3b4;
 }
+
 .currentPage a {
   color: #000;
 }
+
 #myTestEvent {
   display: inline-block;
   padding: 5px 10px;
@@ -66,6 +69,8 @@ nav ul li a {
   color: #000;
   background-color: #1df500;
 }
+
+/* the colour boxes */
 .colPicker {
   background-color: #fff;
   border: 1px dashed #ccc;
@@ -75,16 +80,18 @@ nav ul li a {
 .colPicker:hover {
   cursor: pointer;
 }
-.redBack {
+.red {
   background-color: #be1c26;
 }
-.greenBack {
+.green {
   background-color: #398d38;
 }
-.blueBack {
+.blue {
   background-color: #163b59;
   color: #fff;
 }
+
+
 .error {
   color: #be1c26;
   font-weight: bold;
