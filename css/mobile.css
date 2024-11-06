@@ -80,17 +80,20 @@ nav ul li a {
 .colPicker:hover {
   cursor: pointer;
 }
-.red {
+.redBack {
   background-color: #be1c26;
 }
-.green {
+.greenBack {
   background-color: #398d38;
 }
-.blue {
+.blueBack {
   background-color: #163b59;
   color: #fff;
 }
-
+.yellowBack{
+  background-color: #ecda74;
+  color: #000;
+}
 
 .error {
   color: #be1c26;
